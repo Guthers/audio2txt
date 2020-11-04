@@ -1,0 +1,6 @@
+creds.json
+audios/*
+videos/*
+.vscode/*
+.mypy_cache/*
+.venv/*
